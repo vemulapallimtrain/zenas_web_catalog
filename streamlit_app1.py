@@ -1,4 +1,4 @@
 import streamlit
-import requirements.txt
+import snowflake.connector
 
 streamlit.title("Zena's Amazing Athleisure Catalog")
